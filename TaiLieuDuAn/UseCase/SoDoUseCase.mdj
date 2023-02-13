@@ -1,0 +1,25 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "DTNsBike",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGCt/n/iV4zt78=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLUseCaseDiagram",
+					"_id": "AAAAAAGCt/n/iV40s3w=",
+					"_parent": {
+						"$ref": "AAAAAAGCt/n/iV4zt78="
+					},
+					"name": "UseCaseDiagram"
+				}
+			]
+		}
+	]
+}
